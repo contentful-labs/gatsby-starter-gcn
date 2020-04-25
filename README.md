@@ -30,14 +30,14 @@ https://gcn.netlify.com/
 ### Install
 
 ```
-git clone https://github.com/ryanwiemer/gatsby-starter-gcn.git
+git clone https://github.com/contentful-labs/gatsby-starter-gcn.git
 npm i
 ```
 
 Or via the [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
 
 ```
-gatsby new gatsby-starter-gcn https://github.com/ryanwiemer/gatsby-starter-gcn.git
+gatsby new gatsby-starter-gcn https://github.com/contentful-labs/gatsby-starter-gcn.git
 ```
 
 ### Setup Contentful
@@ -72,7 +72,7 @@ module.exports = {
   siteLogo: '/logos/logo-512.png',
   backgroundColor: '#e9e9e9',
   themeColor: '#121212',
-  copyright: 'Copyright © 2018 GCN User',
+  copyright: 'Copyright © 2020 GCN User',
 }
 ```
 
